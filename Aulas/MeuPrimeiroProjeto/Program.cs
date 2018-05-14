@@ -10,6 +10,7 @@ namespace AulaConsole
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
